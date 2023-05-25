@@ -1,0 +1,15 @@
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\Service.dll
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\obj\Debug\netstandard2.0\DataBaseAccess.csprojAssemblyReference.cache
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\obj\Debug\netstandard2.0\DataBaseAccess.AssemblyInfoInputs.cache
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\obj\Debug\netstandard2.0\DataBaseAccess.AssemblyInfo.cs
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\DataBaseAccess.deps.json
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\DataBaseAccess.dll
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\DataBaseAccess.pdb
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\obj\Debug\netstandard2.0\DataBaseAccess.csproj.CopyComplete
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\obj\Debug\netstandard2.0\DataBaseAccess.dll
+C:\Users\atefe.salehi\source\repos\BookStoreSalehi\DataBaseAccess\obj\Debug\netstandard2.0\DataBaseAccess.pdb
